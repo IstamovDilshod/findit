@@ -1,0 +1,147 @@
+[
+{
+  "model": "listings.category",
+  "pk": 1,
+  "fields": {
+    "name": "Telefon",
+    "slug": "phone",
+    "icon": "smartphone",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 2,
+  "fields": {
+    "name": "Hamyon",
+    "slug": "wallet",
+    "icon": "wallet",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 3,
+  "fields": {
+    "name": "Hujjat",
+    "slug": "document",
+    "icon": "file-text",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 4,
+  "fields": {
+    "name": "Kalit",
+    "slug": "key",
+    "icon": "key-round",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 5,
+  "fields": {
+    "name": "Noutbuk",
+    "slug": "laptop",
+    "icon": "laptop",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 6,
+  "fields": {
+    "name": "Quloqchin",
+    "slug": "headphones",
+    "icon": "headphones",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 7,
+  "fields": {
+    "name": "Sumka",
+    "slug": "bag",
+    "icon": "backpack",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.category",
+  "pk": 8,
+  "fields": {
+    "name": "Boshqa",
+    "slug": "other",
+    "icon": "package",
+    "is_active": true
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 1,
+  "fields": {
+    "name": "Universitet kutubxonasi",
+    "type": "LIBRARY",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "is_active": true
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 2,
+  "fields": {
+    "name": "Asosiy bino",
+    "type": "UNIVERSITY",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "is_active": true
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 3,
+  "fields": {
+    "name": "Kantina",
+    "type": "UNIVERSITY",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "is_active": true
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 4,
+  "fields": {
+    "name": "Savdo markazi",
+    "type": "MALL",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "is_active": true
+  }
+},
+{
+  "model": "listings.location",
+  "pk": 5,
+  "fields": {
+    "name": "Toshkent aeroporti",
+    "type": "AIRPORT",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "is_active": true
+  }
+}
+]
